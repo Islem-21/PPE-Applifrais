@@ -1,0 +1,3 @@
+<?php
+    deconnecterServeurBD($idConnexion);
+?>
